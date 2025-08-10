@@ -1,4 +1,4 @@
 # new project
 
-this weas created by local systemcd ..
+this weas created byf local systemcd ..
 crfeated by shraddhakhapragit
